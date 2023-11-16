@@ -1,1 +1,38 @@
+body{
+width: 300px;
+border: 18px rgb(0,151,57);
+padding: 10px rgb(254,221,0);
+margin: 35px rgb(0,151,57);
+background-color:rgb(251, 250, 245);
+font-family: 'Times New Roman', Times, serif;
+font-size: 10px;
+}
+h1{
+    font-size: 30px;
+    font-weight: normal;
+    margin-top: 3px;
+}
+h2{
+    font-size: 30px;
+    font-weight: normal;
+    margin-top: 3px;
+}
+
+h3{
+    font-size: 30px;
+    font-weight: normal;
+    margin-top: 3px;
+}
+section{
+background-color: rgb(254,251,234);
+border: 5px;
+padding: 5px;
+margin: 3px;
+}
+p{
+    margin-bottom: 15px;
+}
+li{
+   margin-bottom: 5px; 
+}
 
