@@ -17,7 +17,6 @@ h1{
     padding: 0;
     text-decoration: underline;
     font-family:'Josefin Sans', times,serif;
-    display:flex;
 }
 h2{
     font-size: 30px;
