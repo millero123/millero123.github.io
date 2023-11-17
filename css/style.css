@@ -5,15 +5,12 @@ width: 100%;
 background-color:rgb(254,251,234);
 font-family:'Josefin Sans','Josefin Slab', Times, serif;
 font-size: 18px;
-}
-.container{
 display:flex;
 align-items: center;
 justify-content: center;
-
 width: 100%;
 height: 100vh;
-}
+flex-direction: column;
 h1{
     font-size: 40px;
     font-weight: bold;
@@ -22,16 +19,12 @@ h1{
     padding: 0;
     text-decoration: underline;
     font-family:'Josefin Sans', times,serif;
-    align-items: center;
-    justify-content: center;
 }
 h2{
     font-size: 30px;
     font-weight: normal;
     margin-top: 3px;
     font-family:'Josefin Sans', times,serif;
-    align-items: center;
-    justify-content: center;
 }
 section{
 background-color: rgb(254,251,234);
