@@ -5,6 +5,9 @@ width: 100%;
 background-color:rgb(254,251,234);
 font-family:'Josefin Sans','Josefin Slab', Times, serif;
 font-size: 18px;
+}
+.container{
+display:flex;
 text-align: center;
 align-items: center;
 justify-content: center;
@@ -25,12 +28,13 @@ h2{
 section{
 background-color: rgb(254,251,234);
 border: 5px;
-padding: 5px;
+padding: 0;
 margin: 3px;
 }
 p{
     margin-bottom: 15px;
     font-family: 'Josefin Slab', Times, Serif;
+    line-height: 1.5;
 }
 ul{
    margin-bottom: 5px; 
@@ -38,6 +42,7 @@ ul{
    text-align: center;
    font-family: 'Josefin Slab', Times, Serif;
    justify-content: center;
+   line-height: 1.5;
 }
 a:visited{
     color: rgb(156, 39, 176);
