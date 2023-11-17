@@ -1,11 +1,11 @@
 body{
-width: 90%;
-border: 18px rgb(0,151,57);
-padding: 10px rgb(254,221,0);
-margin: 35px rgb(0,151,57);
-background-color:rgb(251, 250, 245);
+margin: 0;
+padding: 0;
+width: 100%;
+max-width: 960px;
+background-color:rgb(254,251,234);
 font-family: 'Times New Roman', Times, serif;
-font-size: 10px;
+font-size: 18px;
 }
 h1{
     font-size: 30px;
