@@ -11,17 +11,11 @@ justify-content: center;
 }
 h1{
     font-size: 30px;
-    font-weight: normal;
+    font-weight: bold;
     margin-top: 3px;
 }
 h2{
-    font-size: 30px;
-    font-weight: normal;
-    margin-top: 3px;
-}
-
-h3{
-    font-size: 30px;
+    font-size: 25px;
     font-weight: normal;
     margin-top: 3px;
 }
