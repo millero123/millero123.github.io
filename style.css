@@ -3,7 +3,7 @@ margin: 0;
 padding: 0;
 width: 100%;
 background-color:rgb(254,251,234);
-font-family: 'Times New Roman', Times, serif;
+font-family:'Josefin Sans','Josefin Slab', Times, serif;
 font-size: 18px;
 text-align: center;
 align-items: center;
@@ -13,11 +13,14 @@ h1{
     font-size: 40px;
     font-weight: bold;
     margin-top: 3px;
+    text-decoration: underline;
+    font-family:'Josefin Sans', times,serif;
 }
 h2{
     font-size: 30px;
     font-weight: normal;
     margin-top: 3px;
+    font-family:'Josefin Sans', times,serif;
 }
 section{
 background-color: rgb(254,251,234);
@@ -27,11 +30,14 @@ margin: 3px;
 }
 p{
     margin-bottom: 15px;
+    font-family: 'Josefin Slab', Times, Serif;
 }
 ul{
    margin-bottom: 5px; 
    list-style-position: inside;
    text-align: center;
+   font-family: 'Josefin Slab', Times, Serif;
+   justify-content: center;
 }
 a:visited{
     color: rgb(156, 39, 176);
