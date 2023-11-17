@@ -32,6 +32,10 @@ background-color: rgb(254,251,234);
 border: 5px;
 padding: 0;
 margin: 3px;
+display:flex;
+align-items: center;
+justify-content: center;
+text-align: center;
 }
 p{
     margin-bottom: 15px;
