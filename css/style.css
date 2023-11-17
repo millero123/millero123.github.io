@@ -3,7 +3,7 @@ margin: 0;
 padding: 0;
 width: 100%;
 background-color:rgb(254,251,234);
-font-family:'Josefin Sans','Josefin Slab', Times, serif;
+font-family:'Josefin Sans','Josefin Slab', sans-serif;
 font-size: 18px;
 align-items: center;
 justify-content: center;
@@ -15,14 +15,14 @@ h1{
     margin: 0;
     padding: 0;
     text-decoration: underline;
-    font-family:'Josefin Sans', times,serif;
+    font-family:'Josefin Sans', sans-serif;
     text-align: center;
 }
 h2{
     font-size: 30px;
     font-weight: normal;
     margin-top: 3px;
-    font-family:'Josefin Sans', times,serif;
+    font-family:'Josefin Sans', sans-serif;
     text-decoration: underline;
 }
 section{
@@ -33,14 +33,14 @@ margin: 3px;
 }
 p{
     margin-bottom: 15px;
-    font-family: 'Josefin Slab', Times, Serif;
+    font-family: 'Josefin Slab', sans-serif;
     line-height: 1.5;
 }
 ul{
    margin-bottom: 5px; 
    list-style-position: inside;
    text-align: center;
-   font-family: 'Josefin Slab', Times, Serif;
+   font-family: 'Josefin Slab', sans-serif;
    justify-content: center;
    line-height: 1.5;
 }
@@ -52,4 +52,8 @@ a:hover{
 }
 a:active{
    color: rgb(244, 143, 177); 
+}
+footer{
+    font-size: 8px;
+    font-style: italic;
 }
