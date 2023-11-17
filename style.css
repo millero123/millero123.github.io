@@ -34,6 +34,7 @@ p{
 }
 ul{
    margin-bottom: 5px; 
+   list-style-position: inside;
    text-align: center;
 }
 
