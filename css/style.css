@@ -5,7 +5,6 @@ width: 100%;
 background-color:rgb(254,251,234);
 font-family:'Josefin Sans','Josefin Slab', Times, serif;
 font-size: 18px;
-display:flex;
 align-items: center;
 justify-content: center;
 text-align: center;
@@ -17,6 +16,7 @@ h1{
     padding: 0;
     text-decoration: underline;
     font-family:'Josefin Sans', times,serif;
+    text-align: center;
 }
 h2{
     font-size: 30px;
