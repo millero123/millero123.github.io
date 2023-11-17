@@ -18,6 +18,9 @@ h1{
     padding: 0;
     text-decoration: underline;
     font-family:'Josefin Sans', times,serif;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
 }
 h2{
     font-size: 30px;
