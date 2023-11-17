@@ -23,6 +23,7 @@ h2{
     font-weight: normal;
     margin-top: 3px;
     font-family:'Josefin Sans', times,serif;
+    text-decoration: underline;
 }
 section{
 background-color: rgb(254,251,234);
