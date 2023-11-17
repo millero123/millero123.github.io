@@ -32,7 +32,8 @@ margin: 3px;
 p{
     margin-bottom: 15px;
 }
-li{
+ul{
    margin-bottom: 5px; 
+   text-align: center;
 }
 
