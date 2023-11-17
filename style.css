@@ -37,4 +37,12 @@ ul{
    list-style-position: inside;
    text-align: center;
 }
-
+a:visited{
+    color: rgb(156, 39, 176);
+}
+a:hover{
+    color: rgb(30, 136, 229);
+}
+a:active{
+   color: rgb(244, 143, 177); 
+}
