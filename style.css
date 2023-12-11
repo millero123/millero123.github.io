@@ -1,14 +1,14 @@
 a:link{
-color: rgb(0,0,0);
-}
-a:hover{
-    color:rgb(255,26,104)
+    color: rgb(50,168,82);
 }
 a:visited{
-    color:rgb(137,18,222)
+color: rgb(125,50,168);
+}
+a:hover{
+    color: rgb(58,216,222);
 }
 a:active{
-    color:rgb(75,86,222)
+    color:rgb(46,12,42);
 }
 h1{
    text-align: center; 
