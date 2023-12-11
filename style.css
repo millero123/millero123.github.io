@@ -32,6 +32,9 @@ h2{
     float: right;
     padding: 10px;
 }
+.image2{
+    display: block;
+}
 .container{
     display: grid;
     grid-template-columns: 1fr 1fr;
