@@ -27,6 +27,7 @@ h2{
 }
 .image1{
     float: right;
+    padding: 10px;
 }
 .container{
     display: grid;
@@ -34,9 +35,8 @@ h2{
     gap: 10px;
     margin: 10px;
 }
-.item{
-    padding: 10px;
+.page-link{
     text-align: center;
+    padding:10px;
+
 }
-
-
