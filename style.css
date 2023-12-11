@@ -25,6 +25,9 @@ h2{
     font-size: 18px;
     line-height: 1.5;
 }
-img{
+.image1{
+    float: left;
+}
+.image2{
     float: right;
 }
