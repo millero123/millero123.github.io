@@ -1,1 +1,17 @@
+h1{
+   text-align: center; 
+   font-size: 25px;
+   background-color: rgb(34,205,252);
+}
+body{
+   background-color:rgb(255, 243, 253);
+   line-height: 1.5;
+   font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+h2{
+    text-align: center;
+    color:rgb(34,205,252);
+    font-size: 18px;
+    line-height: 1.5;
+}
 
