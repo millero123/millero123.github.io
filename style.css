@@ -28,5 +28,15 @@ h2{
 .image1{
     float: right;
 }
+.container{
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    gap: 10px;
+    margin: 10px;
+}
+.item{
+    padding: 10px;
+    text-align: center;
+}
 
 
