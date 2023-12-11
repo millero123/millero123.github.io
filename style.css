@@ -26,8 +26,8 @@ h2{
     line-height: 1.5;
 }
 .image1{
-    float: left;
+    float: right;
 }
 .image2{
-    float: right;
+    float: left;
 }
