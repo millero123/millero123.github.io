@@ -1,0 +1,28 @@
+a:link{
+color: rgb(0,0,0);
+}
+a:hover{
+    color:rgb(255,26,104)
+}
+a:visited{
+    color:rgb(137,18,222)
+}
+a:active{
+    color:rgb(75,86,222)
+}
+
+h1{
+   text-align: center; 
+   font-size: 25px;
+   background-color: rgb(34,205,252);
+}
+body{
+   background-color:rgb(255, 255, 255);
+   line-height: 1.5;
+   font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+h2{
+    color:rgb(34,205,252);
+    font-size: 18px;
+    line-height: 1.5;
+}
