@@ -34,7 +34,7 @@ h2{
 }
 .image2{
     display: block;
-    width: 500px;
+    width: 550px;
     margin: auto;
 }
 .container{
@@ -51,4 +51,5 @@ h2{
 footer{
     font-style: italic;
     font-size: 10px;
+    text-align: center;
 }
